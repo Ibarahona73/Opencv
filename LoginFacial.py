@@ -9,6 +9,7 @@ from mtcnn.mtcnn import MTCNN
 import numpy as np
 
 
+
 # ------------------------ Crearemos una funcion que se encargara de registrar el usuario ---------------------
 
 def registrar_usuario():
